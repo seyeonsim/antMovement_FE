@@ -383,7 +383,7 @@ const NewsDetailPage = () => {
                   className={`saveNews ${isSaved ? 'active' : ''}`}
                   onClick={myNews}
                 >
-                  저장
+                  스크랩
                 </div>
               </div>
 
